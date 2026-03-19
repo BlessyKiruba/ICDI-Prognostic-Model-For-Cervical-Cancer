@@ -6,7 +6,6 @@ This repository contains the R scripts and workflow for the development of the *
 ## Repository Structure
 * `Deseq.R`: Differential expression analysis to identify significant genes.
 * `Unicox.R` & `Multicox.R`: Univariate and Multivariate Cox regression for survival analysis.
-* `ML.R`: Machine learning algorithms used for feature selection and model construction.
 * `ConsensusClusterPlus.R`: Unsupervised clustering to identify patient subgroups.
 * `ClusterProfiler.R`: Functional enrichment analysis (GO/KEGG).
 * `Immune Deconvolution.R`: Analysis of immune cell infiltration (CIBERSORT, etc.).
